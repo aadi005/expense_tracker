@@ -18,7 +18,7 @@ Aadi's Python-based personal finance tool — track expenses, manage balance, se
 ## Tech Stack
 
 - Python 3.9+
-- SQLite (built-in)
+- SQLite
 - Matplotlib
 
 ---
