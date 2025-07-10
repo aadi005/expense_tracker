@@ -91,9 +91,3 @@ __pycache__/
 ## Author
 
 Aaditya Goel
-
----
-
-## License
-
-This project is open-source and free to use.
